@@ -1,4 +1,4 @@
-class CommitCraft < Formula
+class Commitcraft < Formula
   desc "Commit message generator CLI tool written in Rust."
   homepage "https://github.com/leventekk/commitcraft"
   url "https://github.com/leventekk/commitcraft/releases/latest/download/commitcraft-aarch64-apple-darwin.tar.gz"
